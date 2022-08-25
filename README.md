@@ -15,6 +15,14 @@ wasd key controls the direction and speed of the aircraft
 
 
 ![螢幕擷取畫面 2022-06-24 190442](https://user-images.githubusercontent.com/79260866/175522490-737a6f60-be94-4903-b84d-4170386dc1f3.jpg)
+
+Wing trimming (code:168~174)
+
+• Fog (settings.fogAmount=fog(target[2],z[zz]))
+
+• Background music (when the player starts playing)
+
+
 ![螢幕擷取畫面 2022-06-24 190512](https://user-images.githubusercontent.com/79260866/175522496-486955bd-7716-4c9d-9aca-0466d98f0a54.jpg)
 t-jet-game
 
