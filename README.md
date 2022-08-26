@@ -1,5 +1,8 @@
 # webgl-javascrip
 
+demo video: https://www.youtube.com/watch?v=VGKaVB6e7Z4&ab_channel=31shen
+
+
 wasd key controls the direction and speed of the aircraft
 
 • Control the speed up and down, pan left and right
