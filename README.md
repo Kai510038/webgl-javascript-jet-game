@@ -4,7 +4,7 @@
 https://kayla956593.github.io/1/1.html
 [Jet Game Video](https://www.youtube.com/watch?v=VGKaVB6e7Z4&feature=youtu.be)
 
-## Effect Picture
+## 效果圖 | Effect Picture
 ![image](https://github.com/user-attachments/assets/cfe556ae-75c9-4ab7-9541-17b4e614a020)
 
 ## 功能 | Features
