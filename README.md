@@ -55,8 +55,7 @@ https://kayla956593.github.io/1/1.html
    Fog effects enhance the immersive experience during gameplay.
 
 ## 參考資源 | References
-- [Hand Gesture Recognition on Raspberry Pi](https://core-electronics.com.au/tutorials/hand-identification-raspberry-pi.html)
-- 相關程式碼與網路資源
+- https://webgl2fundamentals.org/
 
 ---
 
